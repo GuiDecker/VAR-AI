@@ -14,7 +14,7 @@ Esse projeto teve melhorias adaptadas para receber a analise de imagens e vídeo
 - **Gemini API**
 
 ## Suporte 👇
-- Os arquivos **yolov8m.pt** e **yolov8x.pt** são os similares, a diferença é que o **v8m** é a versão intermediaria, então ele trará precisões médias e o **v8x** é uma versão mais robusta com acertividade, porém leva mais tempo de execução.
+- Os arquivos **yolov8m.pt** e **yolov8n.pt** são os similares, a diferença é que o **v8m** é a versão intermediaria, sendo mais robusto, porém com mais tempo de execução e o **v8n** é uma versão mais leve de todas, sendo mais rápida, porém menos precisa
   
 - Arquivos de imagens e vídeos estarão dentro da pasta assets caso queira adiciona-las no google colab
 
