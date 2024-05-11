@@ -6,6 +6,7 @@ O VAR é um projeto que foi idealizado para ajudar pessoas em areas de risco e p
 ##  Sobre o projeto:
 Esse projeto teve melhorias adaptadas para receber a analise de imagens e vídeos pela API de AI generativa do google, onde passará primeiramente por visões computacionais que trarão a detecção e previsão de pessoas em areas e a analise do gemini, trazendo detecção de pessoas ou animais perdidas e em areas de risco, além de trazer ações preventivas a serem tomadas para resgate
 
+![Alt text](assets/person/person1.png) ![Alt text](assets/person/people-enchente.jpeg)
 
 ## Tecnologia/Biblioteca
 - **Python** utilizado no google colab
