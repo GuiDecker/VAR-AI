@@ -13,6 +13,11 @@ Esse projeto teve melhorias adaptadas para receber a analise de imagens e vídeo
 - **Ultralytcs YOLO** Versão YOLO v8
 - **Gemini API**
 
+## Suporte 👇
+- Os arquivos **yolov8m.pt** e **yolov8x.pt** são os similares, a diferença é que o **v8m** é a versão intermediaria, então ele trará precisões médias e o **v8x** é uma versão mais robusta com acertividade, porém leva mais tempo de execução.
+  
+- Arquivos de imagens e vídeos estarão dentro da pasta assets caso queira adiciona-las no google colab
+
 ## Como Utilizar dentro do google colab🧩:
 
 **Passo a passo**
