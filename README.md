@@ -1,6 +1,6 @@
-# V.A.R (Visualização-Áerea-Resiliente) - Analise e Visão Computacional
+# V.A.R (Visualização-Aérea-Resiliente) - Analise e Visão Computacional
 
-Fundei o projeto VAR (Vigilância Aérea Resiliente), um projeto de visão computacional voltado para a prevenção de incêndios e localização de pessoas em grandes áreas como plantações, florestas ou regiões vulneráveis. A tecnologia emprega inteligência artificial e redes neurais treinadas para analisar imagens captadas por drones ou por câmeras fixas posicionadas estrategicamente. Ao identificar possíveis focos de incêndio, o sistema envia alertas automáticos via WhatsApp aos responsáveis, com instruções baseadas em protocolos definidos com as autoridades locais.
+Fundei o projeto VAR (Visualização Aérea Resiliente), um projeto de visão computacional voltado para a prevenção de incêndios e localização de pessoas em grandes áreas como plantações, florestas ou regiões vulneráveis. A tecnologia emprega inteligência artificial e redes neurais treinadas para analisar imagens captadas por drones ou por câmeras fixas posicionadas estrategicamente. Ao identificar possíveis focos de incêndio, o sistema envia alertas automáticos via WhatsApp aos responsáveis, com instruções baseadas em protocolos definidos com as autoridades locais.
 
 O VAR foi um dos 4 projetos selecionados para entrevista pelo canal Código Fonte TV, entre 24 grupos participantes. Em 2024, também integrou o NEXT 2024, o festival oficial de inovação e tecnologia da FIAP, uma das maiores instituições de ensino em tecnologia do Brasil.
 
